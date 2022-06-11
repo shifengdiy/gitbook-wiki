@@ -1,9 +1,9 @@
 # Page 2
 ## page content this is extra content
+
+
+ code example
 ```javascript
  // code snippet
- 
- 
- code example
  const a1 = 1;
 ```
