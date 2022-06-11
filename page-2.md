@@ -3,5 +3,7 @@
 ```javascript
  // code snippet
  
+ 
+ code example
  const a1 = 1;
 ```
